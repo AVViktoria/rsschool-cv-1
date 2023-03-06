@@ -1,5 +1,5 @@
- ![Photo](./photo_cv.jpg) 
- # **VIKTORIIA AVILOVA**
+ ![Photo](./photo_cv.jpg)\ 
+# **VIKTORIIA AVILOVA**
 ## Junior Frontend Developer
 
 ### PROFESSIONAL PROFILE
@@ -11,7 +11,9 @@ Attention to detail and good organizational skills, ability to work on multiple 
 **Location:** Portland, Oregon\
 [GitHub](https://github.com/AVViktoria?tab=repositories)\
 [Linkedin](https://www.linkedin.com/in/viktoriiaavilova/)
----------------------------------------
+
+----------------
+
 ### TECH SKILLS
 * HTML5/CSS3/SASS/BEM
 * Responsive/Adaptive
@@ -30,7 +32,8 @@ Attention to detail and good organizational skills, ability to work on multiple 
 * English - Intermediate ( learning)
 * Ukrainian - Native
 * Russian - Native
-----------------------------------
+
+--------------------
 ### WORK EXPERIENCE
 **Self Employment / Hostel Manager**
 **May 2011 – June 2014, Kiev, Ukraine**
