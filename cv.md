@@ -1,15 +1,17 @@
- ![Photo](./photo_cv.jpg) # **VIKTORIIA AVILOVA**
+ ![Photo](./photo_cv.jpg) 
+ # **VIKTORIIA AVILOVA**
 ## Junior Frontend Developer
 
 ### PROFESSIONAL PROFILE
 Attention to detail and good organizational skills, ability to work on multiple tasks and switch between them quickly, excellent time management skills and experience delivering projects in a deadline-driven environment.
 
 ### CONTACTS
-**Phone:** +1(503)997-8580
-**Email:** kvikist@ukr.net
-**Location:** Portland, Oregon
-[GitHub](https://github.com/AVViktoria?tab=repositories)
+**Phone:** +1(503)997-8580\
+**Email:** kvikist@ukr.net\
+**Location:** Portland, Oregon\
+[GitHub](https://github.com/AVViktoria?tab=repositories)\
 [Linkedin](https://www.linkedin.com/in/viktoriiaavilova/)
+---------------------------------------
 ### TECH SKILLS
 * HTML5/CSS3/SASS/BEM
 * Responsive/Adaptive
@@ -28,16 +30,16 @@ Attention to detail and good organizational skills, ability to work on multiple 
 * English - Intermediate ( learning)
 * Ukrainian - Native
 * Russian - Native
-
+----------------------------------
 ### WORK EXPERIENCE
 **Self Employment / Hostel Manager**
 **May 2011 – June 2014, Kiev, Ukraine**
->1. Planning accommodation for living.
->2. Work with documentation and conclusion of contracts.
->3. Registration, placement and management on sales platforms.
->4. Creation of a personal brand and website.
->5. Search and training of employees.
->6. Improvement and scaling, hostel support in work.
+1. Planning accommodation for living.
+2. Work with documentation and conclusion of contracts.
+3. Registration, placement and management on sales platforms.
+4. Creation of a personal brand and website.
+5. Search and training of employees.
+6. Improvement and scaling, hostel support in work.
 
 ### PROJECT EXPERIENCE
 **[WebStudio](http://avviktoria.github.io/goit-markup-hw-08/)**, [Link](https://github.com/AVViktoria/goit-markup-hw-08) [HTML, CSS] 
