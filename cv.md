@@ -37,12 +37,12 @@ Attention to detail and good organizational skills, ability to work on multiple 
 ### WORK EXPERIENCE
 **Self Employment / Hostel Manager**\
 **May 2011 – June 2014, Kiev, Ukraine**\
-1.Planning accommodation for living.\
-2.Work with documentation and conclusion of contracts.\
-3.Registration, placement and management on sales platforms.\
-4.Creation of a personal brand and website.\
-5.Search and training of employees.\
-6.Improvement and scaling, hostel support in work.
+1. Planning accommodation for living.\
+2. Work with documentation and conclusion of contracts.\
+3. Registration, placement and management on sales platforms.\
+4. Creation of a personal brand and website.\
+5. Search and training of employees.\
+6. Improvement and scaling, hostel support in work.
 ### EDUCATION
 **[GoIT - start your career in IT](https://goit.global/us/)**\
 **April 2022 – March 2023**\
