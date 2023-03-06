@@ -29,19 +29,19 @@ Attention to detail and good organizational skills, ability to work on multiple 
 * Organized
 
 ### LANGUAGES
-* English - Intermediate ( learning)
+* English - Intermediate (still learning)
 * Ukrainian - Native
 * Russian - Native
 
 --------------------
 ### WORK EXPERIENCE
-**Self Employment / Hostel Manager**
-**May 2011 – June 2014, Kiev, Ukraine**
-1.Planning accommodation for living.
-2.Work with documentation and conclusion of contracts.
-3.Registration, placement and management on sales platforms.
-4.Creation of a personal brand and website.
-5.Search and training of employees.
+**Self Employment / Hostel Manager**\
+**May 2011 – June 2014, Kiev, Ukraine**\
+1.Planning accommodation for living.\
+2.Work with documentation and conclusion of contracts.\
+3.Registration, placement and management on sales platforms.\
+4.Creation of a personal brand and website.\
+5.Search and training of employees.\
 6.Improvement and scaling, hostel support in work.
 ### EDUCATION
 **[GoIT - start your career in IT](https://goit.global/us/)**\
@@ -61,6 +61,7 @@ Role: Scrum Master. Build project on Github, worked with Figma layouts, adaptive
 
 **[Filmoteka](https://avviktoria.github.io/Filmoteka-Project/)**, [Link](https://github.com/AVViktoria/Filmoteka-Project) [HTML, CSS, SASS, JS, Handlebars, REST API, AJAX, Parcel]. Application for choosing a movie.
 App component with public and private routes, AuthPage page logic. Deploy project on Netlify.
+
 -----------------------
 ### CODE EXAMPLE
 Three ways to solve the same problem in JavaScript:
