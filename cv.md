@@ -1,4 +1,4 @@
- ![Photo](./photo_cv.jpg) 
+ ![Photo](./main_photo.jpg) 
 # **VIKTORIIA AVILOVA**
 ## Junior Frontend Developer
 
@@ -43,6 +43,7 @@ Attention to detail and good organizational skills, ability to work on multiple 
 4. Creation of a personal brand and website.
 5. Search and training of employees.
 6. Improvement and scaling, hostel support in work.
+
 ### EDUCATION
 **[GoIT - start your career in IT](https://goit.global/us/)**\
 **April 2022 – March 2023**\
